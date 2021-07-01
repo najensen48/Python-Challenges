@@ -1,4 +1,3 @@
-python assembler.py code.txt
 #The 'yahoo' data source is recommended for this problem. Use source='yahoo'
 
 #1. Use pandas datareader and the datetime library to pull data for the last two months of Google stock values. Create a pandas data frame of the values.
