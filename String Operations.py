@@ -1,13 +1,13 @@
-Problem 1: String Operations
-Write a function that accepts a string of the form:
+#Problem 1: String Operations
+#Write a function that accepts a string of the form:
 
 '$45.21,$62.15,$565.02,$789.98'
-and splits it into a list of floats with no $ symbols. Given the string above as an input, the program should return:
+#and splits it into a list of floats with no $ symbols. Given the string above as an input, the program should return:
 
 [45.21, 62.15, 565.02, 789.98]
-and have a list data type.
+#and have a list data type.
 
-SOLUTION
+#SOLUTION
 data='$45.21,$62.15,$565.02,$789.98'
   
 def no_money(string):
@@ -16,5 +16,5 @@ def no_money(string):
   return res
 print(no_money(data))
 
-RESULTS
+#RESULTS
 [45.21, 62.15, 565.02, 789.98]
