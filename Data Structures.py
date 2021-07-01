@@ -1,4 +1,4 @@
-#Problem 2: Data Structures 
+###Problem 2: Data Structures 
 #You work for a manufacturer, and have been asked to calculate the total profit made on the sales of a product. 
 #You are given a dictionary containing the cost price per unit (in dollars), sell price per unit (in dollars), and the starting inventory. 
 #Write a function called profit() that returns the total profit made, rounded to the nearest dollar.
