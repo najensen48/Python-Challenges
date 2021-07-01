@@ -1,4 +1,13 @@
-#Problem 1: String Operations
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Data manipulation with Numpy and Pandas\n",
+    "\n",
+    "Test"
+  },#Problem 1: String Operations
 #Write a function that accepts a string of the form:
 
 '$45.21,$62.15,$565.02,$789.98'
